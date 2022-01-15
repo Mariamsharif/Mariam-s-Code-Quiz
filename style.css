@@ -15,8 +15,7 @@ body {
 
 h1
 { text-align: center;
-   
-    
+
 }
 
 p
@@ -28,9 +27,16 @@ p
 .start-button {
 
     width: 20%;
-    text-align: center;
     color:white;
     background-color: purple;  
     margin:auto;
     align-items: center;
+    margin: 10;
+    position: absolute;
+    top: 20%;
+     left: 50%;
+ -ms-transform: translate(-50%, -50%);
+ transform: translate(-50%, -50%);
  }
+ 
+ 
